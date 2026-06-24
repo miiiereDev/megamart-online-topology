@@ -1,0 +1,35 @@
+# Megamart Online Topology - .gitignore
+
+# OS files
+Thumbs.db
+.DS_Store
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+
+# Packet Tracer
+*.pkt
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.synctex.gz
+
+# IDE
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
