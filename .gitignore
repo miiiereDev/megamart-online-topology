@@ -16,9 +16,6 @@ env/
 venv/
 .env
 
-# Packet Tracer
-*.pkt
-
 # LaTeX
 *.aux
 *.log
